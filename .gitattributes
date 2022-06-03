@@ -10,3 +10,4 @@ Content/Environment/F_FlatRock.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Environment/M_Rock.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Environment/T_RockTileable_BC.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Environment/T_SandTileabe_BC.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Environment/M_Rock2.uasset filter=lfs diff=lfs merge=lfs -text

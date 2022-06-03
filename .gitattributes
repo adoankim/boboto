@@ -1,0 +1,12 @@
+File[[:space:]]Content/Environment/RockFlat_01.uasset filter=lfs diff=lfs merge=lfs -text
+File[[:space:]]Content/Character/T_Antbot_Normal.uasset filter=lfs diff=lfs merge=lfs -text
+File[[:space:]]Content/Character/T_Antbot_M_R_AO.uasset filter=lfs diff=lfs merge=lfs -text
+File[[:space:]]Content/Character/T_Bot_Masks.uasset filter=lfs diff=lfs merge=lfs -text
+File[[:space:]]Content/Character/T_Antbot_Albedo.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Character/M_BotBase.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Character/M_BotFace.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Environment/RockFlat_01.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Environment/F_FlatRock.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Environment/M_Rock.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Environment/T_RockTileable_BC.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Environment/T_SandTileabe_BC.uasset filter=lfs diff=lfs merge=lfs -text
